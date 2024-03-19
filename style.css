@@ -3,17 +3,18 @@ body {
   margin: 0;
   padding: 0;
   overflow: hidden;
+  background-color: #222;
 }
 #contenedor {
   width: 500px;
   height: 500px;
-  border: 1px solid #ccc;
+  border: 2px solid #ffffff;
   margin: 50px auto;
   position: relative;
 }
 .cuadrado {
   width: 100px;
   height: 100px;
-  background-color: #f00;
+  background-color: rgb(121, 212, 224);
   position: absolute;
 }
